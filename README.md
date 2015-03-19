@@ -6,3 +6,8 @@ These samples are very CPU-intensive and no doubt they can be optimized to impro
 Please note that although I created the graphics effects (similar to code samples in some of my other repositories), the WebGL code is from a Web page that I found online about two years ago.  
 
 I cannot find the original Web page (alas), and I don't remember the author, so I'm hoping that that person will stumble across these samples so that I can give him attribution.
+
+The code samples are here:
+```
+https://bintray.com/ocampesato/threejs-graphics/threejs-graphics/version1
+```
