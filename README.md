@@ -7,7 +7,3 @@ Please note that although I created the graphics effects (similar to code sample
 
 I cannot find the original Web page (alas), and I don't remember the author, so I'm hoping that that person will stumble across these samples so that I can give him attribution.
 
-The code samples are here:
-```
-https://bintray.com/ocampesato/threejs-graphics/threejs-graphics/version1
-```
